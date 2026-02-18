@@ -4,7 +4,7 @@
 ![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/Preview/1.2.0.jpg)
 
 ### 🧠 What is LinkSentinel Pro.?
-This is a simple but powerful PowerShell script that allows any Windows 7, 8, 10 or 11 machine to monitor its internet connection status continuously or devices connectivity in the local network, either **visibly** (with console output) or **silently** (in background) with graphic chart.
+This is a simple but powerful python script that allows any Windows 7, 8, 10 or 11 machine to monitor its internet connection status continuously or devices connectivity in the local network, either **visibly** (with console output) or **silently** (in background) with graphic chart.
 It immediately creates a log file that tracks connection status every few seconds, and logs are readable and openable at any time — even while the script is running.
 To avoid huge log files, a new log file is automatically started every 24 hours, named like: "Log_monitor_YYYY-MM-DD.txt"
 
