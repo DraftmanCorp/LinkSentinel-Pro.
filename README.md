@@ -1,7 +1,7 @@
 # LinkSentinel Pro.
 **A lightweight yet powerful tool to long-term monitor internet or local hosts connectivity on Windows 7/8/10/11 PC — 24/7 logging, visible or hidden. No setup, just run.**
 
-![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/Preview/1.1.0.jpg)
+![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/Preview/1.2.0.jpg)
 
 ### 🧠 What is LinkSentinel Pro.?
 This is a simple but powerful PowerShell script that allows any Windows 7, 8, 10 or 11 machine to monitor its internet connection status continuously or devices connectivity in the local network, either **visibly** (with console output) or **silently** (in background) with graphic chart.
@@ -21,7 +21,7 @@ To avoid huge log files, a new log file is automatically started every 24 hours,
 ---
 
 ### 🚀 Requirements & How to Use
-1. A Windows 7/8/10/11 computer
+1. A Windows 8/10/11 computer
 2. Any modern Web browser (not mandatory, just in case you want to see the web dashboard)
 3. Download **LinkSentinel Pro.** and see the mini guide from [release](https://github.com/DraftmanCorp/LinkSentinel-Pro./releases) page.
 
@@ -29,6 +29,7 @@ To avoid huge log files, a new log file is automatically started every 24 hours,
 1. Windows 7 SP1 (Service Pack 1) -> Download [here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)
 2. Windows Management Framework 5.1 -> Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
 3. .NET Framework 4.5 o superiore -> Download [here](https://www.microsoft.com/it-it/download/details.aspx?id=30653)
+4. Microsoft Visual C++ Redistributable 2015-2019 -> Download [here](https://learn.microsoft.com/it-it/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ---
 
